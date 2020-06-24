@@ -1,3 +1,5 @@
 x = 10
 y = 10
-sum = x + y
+z = 30
+extra = 40
+result = x + y + z + extra
